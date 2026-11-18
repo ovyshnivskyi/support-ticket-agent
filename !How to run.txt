@@ -1,0 +1,6 @@
+Run support-ticket-platform
+.\.venv\Scripts\Activate.ps1
+python -m ticket_agent
+
+eval:
+python -m ticket_agent.evaluate
